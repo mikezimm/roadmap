@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "roadmap-client-side-solution",
+    "id": "fd3f9f83-fb7d-44ea-a48d-e047b0c34091",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/roadmap.sppkg"
+  }
+}
